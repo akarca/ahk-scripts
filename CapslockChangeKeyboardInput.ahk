@@ -1,0 +1,1 @@
+﻿Capslock::Send {LWin down}{Space}{LWin up}
